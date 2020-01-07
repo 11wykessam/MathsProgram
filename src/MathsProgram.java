@@ -9,6 +9,7 @@ import java.io.*;
 
 /**
  * Simple program for evaluating maths equations.
+ * @author Samuel Wykes.
  */
 public class MathsProgram implements Runnable {
 
